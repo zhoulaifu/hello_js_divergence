@@ -1,4 +1,4 @@
-
+# An issue encounted when trying to address equivalence checking for random number generation using Jensen-Shannona divergence
 
 ## **Objective**
 
@@ -29,4 +29,4 @@ Preliminary theoretical research suggests that **Jensen-Shannon divergence** can
    - Verify identical range generation logic between C and Rust.
    - Run larger samples to minimize randomness-induced noise.
 
-# hello_js_divergence
+
